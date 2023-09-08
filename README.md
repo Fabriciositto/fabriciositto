@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy estudiante de Ingeniería Biomédica, formandome en Data Science (autodidacta).
-Actualmente trabajo en una Lead Generator estadounidense como ISA Manager, IT support, Data Analyst y Virtual Assistant. 
+Formandome en Data Science (autodidacta).
+Mi último trabajo fue en una Lead Generator estadounidense como ISA Manager, IT support, Data Analyst y Virtual Assistant. 
 
 Busco crecer en el mundo del Data Science, trabajando en diferentes contextos y con nuevas herramientas.
 
